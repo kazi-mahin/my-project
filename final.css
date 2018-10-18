@@ -888,6 +888,14 @@ footer{
 	.dis-h1{display:none;}
 	.dis-heading{display:initial;}
 	
+	#discription p{
+	margin:10;
+	margin-top:30;
+        font-size:20;
+	
+	
+}
+
 }
 
 
