@@ -263,9 +263,10 @@ notice-bordc-down{
 	position;relative;
 	background-color:rgba(0,0,0,.2);
 }
-#discription P{
+#discription p{
 	margin:10;
 	margin-top:30;
+        font-size:12;
 	
 	
 }
